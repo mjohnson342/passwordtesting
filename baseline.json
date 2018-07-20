@@ -1,0 +1,283 @@
+{
+ "generated_at": "2018-07-20T17:45:41Z",
+ "plugins_used": [
+  {
+   "limit": 4.5,
+   "name": "Base64HighEntropyString"
+  },
+  {
+   "limit": 3,
+   "name": "HexHighEntropyString"
+  }
+ ],
+ "results": {
+  "pw50char.js": [
+   {
+    "line_number": 1,
+    "hashed_secret": "b3691fd8873f4846be7adc78221630d6f02c37b0",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 2,
+    "hashed_secret": "71abbe4473b8da9ddb28d444bcd25d221cc331ee",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 3,
+    "hashed_secret": "3fc4508d170bf1650cd26e97ffd406d23d046c6b",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 4,
+    "hashed_secret": "fa22520965096a8fcdc17e489d131430438bf578",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 5,
+    "hashed_secret": "aa81bbf8dfb11f6dc6ad6de83d8f4546a5b995ae",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 6,
+    "hashed_secret": "5ff290a5b60e9bde6fa5acd41aa315d260accce4",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 7,
+    "hashed_secret": "01138469b6fa2ffe9dd58ae5c4c8f9829354bca1",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 8,
+    "hashed_secret": "59abaaa26cb42f44524781881903e165b70b9a4e",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 9,
+    "hashed_secret": "9b87d489a698b1f4430ed44852604b248872e931",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 10,
+    "hashed_secret": "8ebed0e603319763a210c58e48c85efdc2e6b83b",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 11,
+    "hashed_secret": "676a6e116e3188fffcbdc19f70d356dd4f1c93f9",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 12,
+    "hashed_secret": "571f2fc6dc0a579e4f1ed5b3da53d3cbf829e8b3",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 13,
+    "hashed_secret": "801bdc38c7755e9821a4f620711c3f34c109ff9d",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 14,
+    "hashed_secret": "a8203cdb6a0d4b3642e41f5e923f861e4fde66ee",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 15,
+    "hashed_secret": "c6dd4662decc8131e0c3cf5944963ab1cc83ec9d",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 16,
+    "hashed_secret": "a0ffcb5549405dc5b98474cb1558e8ba2db22598",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 17,
+    "hashed_secret": "dc7b62fc92c731b22544a948c9ee671c68f31942",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 18,
+    "hashed_secret": "cb30b452d68d52268442cbc19ae35f363ebb50d4",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 19,
+    "hashed_secret": "378a1a0667292060c0302cb9e0c409f644c50c2f",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 20,
+    "hashed_secret": "8da39f31e4da0c1988730fd74220fdbf590bb1d3",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 21,
+    "hashed_secret": "65f113225186fd02bc4912bae9cd926a209a072f",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 22,
+    "hashed_secret": "ef6e8c2a674d01b47c681d491c1da0168515fbd3",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 23,
+    "hashed_secret": "d9b4122af536b0b8e9006853c2029ee91bba727a",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 24,
+    "hashed_secret": "cb95bb1341497b17fbd872498fda421b37d704e8",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 25,
+    "hashed_secret": "2035cbfaa9b5ef4c13e9f3061c3ddc03cda24881",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 26,
+    "hashed_secret": "39d7420d6dd963cd32190685842e48e4105a22a1",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 27,
+    "hashed_secret": "eff472f98a565447369f6431edfd1bfb81f4af84",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 28,
+    "hashed_secret": "01530e45f860834304e99520286b9d491f79ec80",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 29,
+    "hashed_secret": "b6cdc10e7c015375bcf2ffc6837e6a7fe894a7e1",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 30,
+    "hashed_secret": "cc3b06b848e23e0abe1a319fdc6b653175fb22a7",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 31,
+    "hashed_secret": "73cdc43849da79ed1323fe20d475fc1a906d6abc",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 32,
+    "hashed_secret": "7d8f0b5de59cc2151841e703bb52862baffbbc0f",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 33,
+    "hashed_secret": "f07305e3f7f05b89e65458c83c93492ffd039910",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 34,
+    "hashed_secret": "e8a55cbd294c9cf22331a351cf0c9e94722567eb",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 35,
+    "hashed_secret": "b95f572b9dd08c1452de711fb4b9ec0eca9c9bee",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 36,
+    "hashed_secret": "f4db300b9eb6a1bf82e169fa9a057c9315075588",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 37,
+    "hashed_secret": "1b8b0dc424ab9a48d9a1476b28229c10c792c4eb",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 38,
+    "hashed_secret": "2c23f4c395b2b98a10517cf51f7d9005115c6a3d",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 39,
+    "hashed_secret": "ea2ead2c4e6a52b799ffb2664962780017f4c1dc",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 40,
+    "hashed_secret": "45b23d6a861dce35b8df8ae442b26d8aeac85b64",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 41,
+    "hashed_secret": "f30d84b29f596ace938d7aa25fe90aeee58ac882",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 42,
+    "hashed_secret": "767a6da339d3ff669c725522b8b17340b15bbf44",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 43,
+    "hashed_secret": "b4b7d5a446311dabda9b03e9b44d56ba5d5dc7e9",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 44,
+    "hashed_secret": "78bd895e95c398019cc45b0a3a79fe24b80f923f",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 45,
+    "hashed_secret": "203e645226c373c875a3550ca3a0476fc6602ebe",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 46,
+    "hashed_secret": "874b6b00f450b85a0160cea70fce89f50ee580db",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 47,
+    "hashed_secret": "a00a34a473470d44ab64cf5d2fb8ebd6517dc153",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 48,
+    "hashed_secret": "5bfde87056c7f490f9453007742e3a60e37f244b",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 49,
+    "hashed_secret": "f23c00a204769f6938aaf649873a206d8180afc3",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 50,
+    "hashed_secret": "a56173e3eda25aea2c7f725d2fcc57b97a9af092",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 53,
+    "hashed_secret": "149756d76d9bdda5d0b6e250246055a93541eb8f",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 55,
+    "hashed_secret": "3895fb265a3b014305d5f9f013ea62174c6a7fd0",
+    "type": "Base64 High Entropy String"
+   },
+   {
+    "line_number": 56,
+    "hashed_secret": "5564444e38a6c48846ad1c8de05cc1930198d6f8",
+    "type": "Base64 High Entropy String"
+   }
+  ]
+ },
+ "exclude_regex": ".*test.*"
+}
